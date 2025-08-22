@@ -1,6 +1,6 @@
-# Brandfetch: Logo API - Add any company logos in your app
+# Logo API - Add any company logos in your app
 
-Logo API offers access to the world's largest and most current logo repository, enabling you to display the latest logos from any brand around the world. It's fast, free and always up-to-date.
+Brandfetch's Logo API offers access to the world's largest and most current logo repository, enabling you to display the latest logos from any brand around the world. It's fast, free and always up-to-date.
 
 Read our docs to integrate our APIs. Here are our different links:
 
